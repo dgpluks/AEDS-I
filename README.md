@@ -1,1 +1,15 @@
 # AEDS-I
+LINGUAGEM C:
+LINGUAGEM C++:
+LINGUAGEM C#:
+
+ATENÇÃO ESSA LINGUAGEM IMPORTA LETRAS MAIÚSCULAS.
+
+Estrutura básica do main:
+
+  using System;        /*simplifica a escrita do restante do codigo, semelhante ao using namespace do c++, evitando a necessidade de escrever System.Console.ReadLine*/
+  class MainClass{    /*Convenção colocar o nome da classe main com maiusculo*/
+          public static void Main(string[] args){
+                  
+          }
+  }
